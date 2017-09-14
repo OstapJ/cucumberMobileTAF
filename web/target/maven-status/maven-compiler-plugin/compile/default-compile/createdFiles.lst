@@ -1,0 +1,8 @@
+com\epam\core\page_object\MainPage.class
+com\epam\core\step\AbstractStepDefinition.class
+com\epam\core\page_object\CarViewerPage.class
+com\epam\core\step\VideoStep.class
+com\epam\core\page_object\AutoSectionWidget.class
+com\epam\core\page_object\CarMarketPage.class
+com\epam\core\page_object\NameOfElement.class
+com\epam\core\page_object\AbstractPage.class

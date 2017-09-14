@@ -1,0 +1,6 @@
+com\epam\core\properties\EnvironmentConfiguration.class
+com\epam\core\BaseDataTable.class
+com\epam\core\BaseDataTable$BaseDataTableIterator.class
+com\epam\core\Utilities.class
+com\epam\core\BaseConstants.class
+com\epam\core\Globals.class
